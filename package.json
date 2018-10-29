@@ -2,7 +2,7 @@
   "name": "screenshotaccess",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/fox2081/ScreenshotAccess/issues"
   },
-  "homepage": "https://github.com/fox2081/ScreenshotAccess#readme"
+  "homepage": "https://github.com/fox2081/ScreenshotAccess#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http-errors": "^1.7.1",
+    "log4js": "^3.0.6"
+  }
 }
