@@ -20,6 +20,7 @@
     "axios": "^0.18.0",
     "body-parse": "^0.1.0",
     "body-parser": "^1.18.3",
+    "canvg": "^1.5.3",
     "express": "^4.16.4",
     "html2canvas": "^1.0.0-alpha.12",
     "http-errors": "^1.7.1",
